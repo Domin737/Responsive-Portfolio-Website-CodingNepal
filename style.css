@@ -94,7 +94,8 @@ section .title::after {
 }
 .navbar.sticky {
   padding: 15px 0;
-  background: crimson;
+  /* background: crimson; */
+  background: rgba(220, 20, 60, 0.685);
   /* background: #003566; */
 }
 .navbar .max-width {
@@ -179,7 +180,6 @@ section .title::after {
   height: 100vh;
   min-height: 500px;
   max-width: 100%;
-  /* height: auto; */
   background-size: cover;
   background-attachment: fixed;
   font-family: "Ubuntu", sans-serif;
