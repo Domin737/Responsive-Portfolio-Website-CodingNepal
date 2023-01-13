@@ -57,12 +57,12 @@ $(document).ready(function () {
     backSpeed: 60,
     loop: true,
   });
-  var typed = new Typed(".typing-banner", {
-    strings: ["Hello Wrold!"],
-    typeSpeed: 60,
-    backSpeed: 60,
-    loop: true,
-  });
+  //   var typed = new Typed(".typing-banner", {
+  //     strings: ["Hello Wrold! My name is"],
+  //     typeSpeed: 30,
+  //     backSpeed: 30,
+  //     loop: true,
+  //   });
 
   // owl carousel script
   $(".carousel").owlCarousel({
